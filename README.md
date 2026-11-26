@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/intemu2/one-star-review-oxygen/rank.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
 [![reward](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/intemu2/one-star-review-oxygen/reward.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
 
-One deadpan one-star review of an everyday essential, 67 characters, one line:
+One deadpan one-star review of an everyday essential, 71 characters, one line:
 
-> Oxygen (1/5): Zero flavor, mandatory auto-renew every four seconds.
+> 1 star for oxygen: zero flavor, mandatory auto-renew every few seconds.
 
-One joke, told cleanly: breathing is a subscription that renews about every four seconds, wanted or not. Deadpan throughout, no exclamation mark, and the sting lands in the last few words.
+One joke, told cleanly: breathing is a subscription that renews every few seconds, wanted or not. Deadpan throughout, no exclamation mark, and the sting lands in the last few words.
 
 ## Run it
 
